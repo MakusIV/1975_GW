@@ -1,0 +1,46 @@
+[
+	{
+		"idAirbase" : "Batumi",
+		"Side" : "Blue"
+	},
+	{
+		"idAirbase" : "Beslan",
+		"Side" : "Red"
+	},
+	{
+		"idAirbase" : "Kutaisi",
+		"Side" : "Blue"
+	},
+	{
+		"idAirbase" : "Kvitiri",
+		"Side" : "Blue"
+	},
+	{
+		"idAirbase" : "Kvitiri HELO",
+		"Side" : "Blue"
+	},
+	{
+		"idAirbase" : "Mineralnye",
+		"Side" : "Red"
+	},
+	{
+		"idAirbase" : "Mozdok",
+		"Side" : "Red"
+	},
+	{
+		"idAirbase" : "Nalchik",
+		"Side" : "Red"
+	},
+	{
+		"idAirbase" : "Soganlug",
+		"Side" : "Blue"
+	},
+	{
+		"idAirbase" : "Tbilisi",
+		"Side" : "Blue"
+	},
+	{
+		"idAirbase" : "Vaziani",
+		"Side" : "Blue"
+	}
+]

@@ -1,0 +1,954 @@
+[
+	{
+		"quantity" : 2,
+		"note" : "",
+		"Aircraft_idAircraft" : "An-26",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 2,
+		"note" : "",
+		"Aircraft_idAircraft" : "An-26",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 2,
+		"note" : "",
+		"Aircraft_idAircraft" : "An-26",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "An-26",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 2,
+		"note" : "",
+		"Aircraft_idAircraft" : "An-26",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 2,
+		"note" : "",
+		"Aircraft_idAircraft" : "An-26",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 1,
+		"note" : "",
+		"Aircraft_idAircraft" : "An-26",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 4,
+		"note" : "",
+		"Aircraft_idAircraft" : "An-26",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "B-1B",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "B-1B",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "EWR"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "B-1B",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 1,
+		"note" : "",
+		"Aircraft_idAircraft" : "B-1B",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "EWR"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "B-52H",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "B-52H",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 15,
+		"note" : null,
+		"Aircraft_idAircraft" : "C-130",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 1,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-14A",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "EWR"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-14A",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 2,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "EWR"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-4",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-5",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-5",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-5",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-5",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-5",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-5",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-5",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-5",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-5",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "F-5",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "L-39C",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "L-39C",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "L-39C",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "L-39C",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "L-39C",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "L-39ZA",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "L-39ZA",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "L-39ZA",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "L-39ZA",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 10,
+		"note" : null,
+		"Aircraft_idAircraft" : "Mig-19",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 5,
+		"note" : null,
+		"Aircraft_idAircraft" : "Mig-19",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-19",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-19",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-19",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 2,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-19",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-19",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-19",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-19",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-19",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 5,
+		"note" : null,
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 10,
+		"note" : null,
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 5,
+		"note" : null,
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : null,
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 3,
+		"note" : null,
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-21Bis",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 15,
+		"note" : null,
+		"Aircraft_idAircraft" : "Mig-23MLD",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 15,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-23MLD",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 15,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-23MLD",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 15,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-23MLD",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 5,
+		"note" : null,
+		"Aircraft_idAircraft" : "Mig-25PD",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-25PD",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-25PD",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "CAP"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-25PD",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "GCI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-25RTB",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "EWR"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-25RTB",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 2,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-25RTB",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "EWR"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-25RTB",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-27K",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-27K",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Mig-27K",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : null,
+		"Aircraft_idAircraft" : "Su-17M4",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-17M4",
+		"Airbase_idAirbase" : "Kutaisi",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 10,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-17M4",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-17M4",
+		"Airbase_idAirbase" : "Soganlug",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-17M4",
+		"Airbase_idAirbase" : "Vaziani",
+		"Role_idRole" : "CAS"
+	},
+	{
+		"quantity" : 5,
+		"note" : null,
+		"Aircraft_idAircraft" : "Su-24M",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-24M",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-24M",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-24M",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "GA"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-24MR",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 3,
+		"note" : null,
+		"Aircraft_idAircraft" : "Su-24MR",
+		"Airbase_idAirbase" : "Beslan",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-24MR",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-24MR",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-24MR",
+		"Airbase_idAirbase" : "Nalchik",
+		"Role_idRole" : "REC"
+	},
+	{
+		"quantity" : 5,
+		"note" : "",
+		"Aircraft_idAircraft" : "Su-24MR",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 15,
+		"note" : "",
+		"Aircraft_idAircraft" : "Tu-22",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Tu-22",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "EWR"
+	},
+	{
+		"quantity" : 7,
+		"note" : "",
+		"Aircraft_idAircraft" : "Tu-22",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "BAI"
+	},
+	{
+		"quantity" : 2,
+		"note" : "",
+		"Aircraft_idAircraft" : "Tu-22",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "EWR"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Yak-40",
+		"Airbase_idAirbase" : "Batumi",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 2,
+		"note" : "",
+		"Aircraft_idAircraft" : "Yak-40",
+		"Airbase_idAirbase" : "Mineralnye",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 1,
+		"note" : "",
+		"Aircraft_idAircraft" : "Yak-40",
+		"Airbase_idAirbase" : "Mozdok",
+		"Role_idRole" : "TRA"
+	},
+	{
+		"quantity" : 3,
+		"note" : "",
+		"Aircraft_idAircraft" : "Yak-40",
+		"Airbase_idAirbase" : "Tbilisi",
+		"Role_idRole" : "TRA"
+	}
+]

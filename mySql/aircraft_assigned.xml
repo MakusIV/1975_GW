@@ -1,0 +1,102 @@
+<DATA>
+
+	<ROW>
+		<idAircraft>An-26</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>B-1B</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>B-52H</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>C-130</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>F-14A</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>F-4</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>F-5</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>L-39C</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>L-39ZA</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>Mig-19</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>Mig-21Bis</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>Mig-23MLD</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>Mig-25PD</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>Mig-25RTB</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>Mig-27K</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>Su-17M4</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>Su-24M</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>Su-24MR</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>Tu-22</idAircraft>
+		<note>NULL</note>
+	</ROW>
+
+	<ROW>
+		<idAircraft>Yak-40</idAircraft>
+		<note>NULL</note>
+	</ROW>
+</DATA>

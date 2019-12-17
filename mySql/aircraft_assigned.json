@@ -1,0 +1,82 @@
+[
+	{
+		"idAircraft" : "An-26",
+		"note" : null
+	},
+	{
+		"idAircraft" : "B-1B",
+		"note" : null
+	},
+	{
+		"idAircraft" : "B-52H",
+		"note" : null
+	},
+	{
+		"idAircraft" : "C-130",
+		"note" : null
+	},
+	{
+		"idAircraft" : "F-14A",
+		"note" : null
+	},
+	{
+		"idAircraft" : "F-4",
+		"note" : null
+	},
+	{
+		"idAircraft" : "F-5",
+		"note" : null
+	},
+	{
+		"idAircraft" : "L-39C",
+		"note" : null
+	},
+	{
+		"idAircraft" : "L-39ZA",
+		"note" : null
+	},
+	{
+		"idAircraft" : "Mig-19",
+		"note" : null
+	},
+	{
+		"idAircraft" : "Mig-21Bis",
+		"note" : null
+	},
+	{
+		"idAircraft" : "Mig-23MLD",
+		"note" : null
+	},
+	{
+		"idAircraft" : "Mig-25PD",
+		"note" : null
+	},
+	{
+		"idAircraft" : "Mig-25RTB",
+		"note" : null
+	},
+	{
+		"idAircraft" : "Mig-27K",
+		"note" : null
+	},
+	{
+		"idAircraft" : "Su-17M4",
+		"note" : null
+	},
+	{
+		"idAircraft" : "Su-24M",
+		"note" : null
+	},
+	{
+		"idAircraft" : "Su-24MR",
+		"note" : null
+	},
+	{
+		"idAircraft" : "Tu-22",
+		"note" : null
+	},
+	{
+		"idAircraft" : "Yak-40",
+		"note" : null
+	}
+]

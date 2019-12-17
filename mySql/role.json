@@ -1,0 +1,38 @@
+[
+	{
+		"idRole" : "BAI",
+		"note" : "Interdiction, Bombing, Pin Point Strike"
+	},
+	{
+		"idRole" : "CAP",
+		"note" : "Combat Air Patrol, Fighter Sweep"
+	},
+	{
+		"idRole" : "CAS",
+		"note" : "Close Air Support"
+	},
+	{
+		"idRole" : "EWR",
+		"note" : "Early Warning Radar"
+	},
+	{
+		"idRole" : "GA",
+		"note" : "Ground Attack"
+	},
+	{
+		"idRole" : "GCI",
+		"note" : "Intercept"
+	},
+	{
+		"idRole" : "REC",
+		"note" : "Recongition"
+	},
+	{
+		"idRole" : "SEAD",
+		"note" : " Suppression of Enemy Air Defences"
+	},
+	{
+		"idRole" : "TRA",
+		"note" : "Transport"
+	}
+]

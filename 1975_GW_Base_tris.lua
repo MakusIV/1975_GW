@@ -302,15 +302,15 @@ function calcParamForBAI_target(type_aircraft)
     speed_patrol_max = 700
     speed_patrol_min = 500
     speed_attack = math.random(400, 600)
-    altitude_attack = math.attack(1500, 3000)
+    altitude_attack = math.random(1500, 3000)
     altitude_patrol_max = 8000
     altitude_patrol_min = 5000
 
-  else if type_aircraft == 'bomber' then
+  elseif type_aircraft == 'bomber' then
     speed_patrol_max = 600
     speed_patrol_min = 500
     speed_attack = math.random(400, 500)
-    altitude_attack = math.attack(2000, 4000)
+    altitude_attack = math.random(2000, 4000)
     altitude_patrol_max = 12000
     altitude_patrol_min = 7000
 
@@ -318,7 +318,7 @@ function calcParamForBAI_target(type_aircraft)
     speed_patrol_max = 300
     speed_patrol_min = 200
     speed_attack = math.random(200, 300)
-    altitude_attack = math.attack(500, 1000)
+    altitude_attack = math.random(500, 1000)
     altitude_patrol_max = 3000
     altitude_patrol_min = 1000
 
@@ -360,7 +360,7 @@ function calcParamForBAI_target(type_aircraft)
   if num_attack == 1 then
     num_weapon = AI.Task.WeaponExpend.ALL
 
-  else if num_attack == 2 then
+  elseif num_attack == 2 then
     num_weapon = AI.Task.WeaponExpend.HALF
 
   else
@@ -5542,7 +5542,7 @@ if conflictZone == 'Zone 1: South Ossetia' then
 
             [1] = { 'Interdiction from Tbilisi', groupset, 'target', redFrontZone.Patrol_Zone_Tbilisi[2], redFrontZone.Patrol_Zone_Tbilisi[2], speed_attack, altitude_attack, num_weapon, num_attack, attack_angle, redGroundGroup[2], request_kills, altitude_patrol_min, altitude_patrol_max, speed_patrol_min, speed_patrol_max, time_to_engage, time_to_RTB, 1 },
             [2] = { 'Interdiction from Tbilisi', groupset, 'target', redFrontZone.Patrol_Zone_Tbilisi[2], redFrontZone.Patrol_Zone_Tbilisi[2], speed_attack, altitude_attack, num_weapon, num_attack, attack_angle, redGroundGroup[3], request_kills, altitude_patrol_min, altitude_patrol_max, speed_patrol_min, speed_patrol_max, time_to_engage, time_to_RTB, 1 },
-            [3] = { 'Interdiction from Tbilisi', groupset, 'target', redFrontZone.Patrol_Zone_Tbilisi[2], redFrontZone.Patrol_Zone_Tbilisi[2], speed_attack, altitude_attack, num_weapon, num_attack, attack_angle, redGroundGroup[5], request_kills, altitude_patrol_min, altitude_patrol_max, speed_patrol_min, speed_patrol_max, time_to_engage, time_to_RTB, 1 },
+            [3] = { 'Interdiction from Tbilisi', groupset, 'target', redFrontZone.Patrol_Zone_Tbilisi[2], redFrontZone.Patrol_Zone_Tbilisi[2], speed_attack, altitude_attack, num_weapon, num_attack, attack_angle, redGroundGroup[5], request_kills, altitude_patrol_min, altitude_patrol_max, speed_patrol_min, speed_patrol_max, time_to_engage, time_to_RTB, 1 }
 
           }
 
@@ -5574,8 +5574,8 @@ if conflictZone == 'Zone 1: South Ossetia' then
 
             local param = {
 
-              { 'Interdiction from Tbilisi tris', groupset, 'bombing', targets[ 1 ], targets[ 1 ], speed_attack, altitude_attack, num_weapon, num_attack, attack_angle, altitude_patrol_min, altitude_patrol_max, speed_patrol_min, speed_patrol_max, time_to_engage, time_to_RTB, 1 }
-              { 'Interdiction from Tbilisi tris', groupset, 'bombing', targets[ 2 ], targets[ 2 ], speed_attack, altitude_attack, num_weapon, num_attack, attack_angle, altitude_patrol_min, altitude_patrol_max, speed_patrol_min, speed_patrol_max, time_to_engage, time_to_RTB, 1 }
+              { 'Interdiction from Tbilisi tris', groupset, 'bombing', targets[ 1 ], targets[ 1 ], speed_attack, altitude_attack, num_weapon, num_attack, attack_angle, altitude_patrol_min, altitude_patrol_max, speed_patrol_min, speed_patrol_max, time_to_engage, time_to_RTB, 1 },
+              { 'Interdiction from Tbilisi tris', groupset, 'bombing', targets[ 2 ], targets[ 2 ], speed_attack, altitude_attack, num_weapon, num_attack, attack_angle, altitude_patrol_min, altitude_patrol_max, speed_patrol_min, speed_patrol_max, time_to_engage, time_to_RTB, 1 },
               { 'Interdiction from Tbilisi tris', groupset, 'bombing', targets[ 3 ], targets[ 3 ], speed_attack, altitude_attack, num_weapon, num_attack, attack_angle, altitude_patrol_min, altitude_patrol_max, speed_patrol_min, speed_patrol_max, time_to_engage, time_to_RTB, 1 }
 
 
@@ -5676,7 +5676,7 @@ if conflictZone == 'Zone 1: South Ossetia' then
               [1] = { groupset, warehouse.Tbilisi, warehouse.Beslan, toTargetAltitude, toHomeAltitude, bombingDirection, bombingAltitude, bombingAltitude, bombRunDistance, bombRunDirection, speedBombRun },
               [2] = { groupset, warehouse.Tbilisi, warehouse.Mozdok, toTargetAltitude, toHomeAltitude, bombingDirection, bombingAltitude, bombingAltitude, bombRunDistance, bombRunDirection, speedBombRun },
               [3] = { groupset, warehouse.Tbilisi, warehouse.Mineralnye, toTargetAltitude, toHomeAltitude, bombingDirection, bombingAltitude, bombingAltitude, bombRunDistance, bombRunDirection, speedBombRun },
-              [4] = { groupset, warehouse.Tbilisi, warehouse.Nalchik, toTargetAltitude, toHomeAltitude, bombingDirection, bombingAltitude, bombingAltitude, bombRunDistance, bombRunDirection, speedBombRun },
+              [4] = { groupset, warehouse.Tbilisi, warehouse.Nalchik, toTargetAltitude, toHomeAltitude, bombingDirection, bombingAltitude, bombingAltitude, bombRunDistance, bombRunDirection, speedBombRun }
 
             }
 
@@ -8017,7 +8017,7 @@ if conflictZone == 'Zone 1: South Ossetia' then
     -- Spawn aircraft from template  IMPORTANTE
     -- Da utilizzare per generare traffico o voli generici
 
-
+--[[
 
     local Spawn_GE_Recognition_Flight =
       { air_template_blue.REC_L_39C,
@@ -8036,7 +8036,7 @@ if conflictZone == 'Zone 1: South Ossetia' then
 
     local Spawn_BLUE_Air_Recon = genericSpawnSimple('Georgian Transport Flight', 15, 40, Spawn_GE_Transpor_Flight, 1, 1, 1000, 2000, 900, 0.7)
 
-
+]]
 
           -- CAS MISSION
       ---
@@ -8052,7 +8052,7 @@ if conflictZone == 'Zone 1: South Ossetia' then
       -- Create a local variable (in this case called CASEngagementZone) and
       -- using the ZONE function find the pre-defined zone called "Engagement Zone"
       -- currently on the map and assign it to this variable
-      CASEngagementTkviavi = ZONE:New( "TSVERI" )
+      --CASEngagementTkviavi = ZONE:New( "TSVERI" )
 
       --[[
 
